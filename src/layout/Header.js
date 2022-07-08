@@ -5,7 +5,7 @@ export class Header extends Component {
     return (
       <div>
         <header className="App-header">
-          <h1> Parking Management System</h1>
+          <h1> Parking System</h1>
         </header>
       </div>
     );
